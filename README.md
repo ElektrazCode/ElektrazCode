@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elektra "@ElektrazCode"
-- 👀 I’m interested in Java Programming hoping to be a fullstack java programmer one day
-- 🌱 I’m currently trying to get into the software engineering industry by learning and practicing coding as much as I can
-- 💞️ I’m looking to collaborate on any simple tasks to begin with then go deeper as I feel more confident with my coding skills
+- 👀 I’m a full-stack software engineer
+- 🌱 I’m interested in collaborating to open source projects 
+- 💞️ I love coding cool apps in html, css, javascript & java
 - 📫 You can reach me via email: ElektrazCode@gmail.com
 
 <!---
