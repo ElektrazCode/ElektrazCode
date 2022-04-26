@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mary Rose "@ElektrazCode"
-- 👀 I’m a full-stack Software Engineer
+- 👀 I’m a full-stack Software Engineer at 100Devs
 - 🌱 I’m interested in collaborating to open source projects 
 - 💞️ I love coding in html, css, javascript & java
 - 📫 You can reach me via email: ElektrazCode@gmail.com
