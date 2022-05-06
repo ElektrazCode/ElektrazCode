@@ -1,5 +1,7 @@
 
-![Simple Technology LinkedIn Banner](https://user-images.githubusercontent.com/90852186/167027962-c1df7d54-e7b5-44ff-9299-5f3a56ed7e4d.png)
+![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/90852186/167046835-cc992e83-a094-47b4-8850-ad1183c0dbbb.png)
+
+
 
 - 👋 Hi, I’m Mary Rose "@ElektrazCode"
 - 👀 I’m a full-stack Software Engineer at 100Devs
