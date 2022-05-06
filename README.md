@@ -11,11 +11,3 @@
 - 📫 You can reach me via email: ElektrazCode@gmail.com
 
 ![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)
-
-
-
-
-
-
-https://user-images.githubusercontent.com/90852186/167210475-e9213ee9-2360-4421-aef3-30903a99e02e.mp4
-
