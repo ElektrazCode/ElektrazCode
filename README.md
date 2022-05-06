@@ -10,8 +10,8 @@
 - 🌱 I'm currently learning Node, React & MangoDB
 - 📫 You can reach me via email: ElektrazCode@gmail.com
 
+![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)
 
 
 
-https://user-images.githubusercontent.com/90852186/167051752-ba7b412a-a99a-4698-97ec-00c5a24ecdda.mov
 
