@@ -18,7 +18,8 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="400px" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" /></p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
