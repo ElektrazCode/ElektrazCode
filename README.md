@@ -1,6 +1,6 @@
 ![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/90852186/167046835-cc992e83-a094-47b4-8850-ad1183c0dbbb.png)
 
-<h1 align="center">Hi 👋🏼, I'm Mary Rose</h1>
+<h1 align="center" font-family="Georgia">Hi 👋🏼, I'm Mary Rose</h1>
 <!-- <h2 align="center">"@ElektrazCode"</h2>
 <h3 align="center">A passionate Full-Stack Software Engineer</h3> -->
 
@@ -18,7 +18,8 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-<h3>Projects</h3>
+<h1 font-family="Georgia">Projects</h1><hr/>
+
 <div align="center" border="1px solid silver" padding="10px">
    <img src="Demos/Carousel.gif"/><br/>
    <a href="https://github.com/ElektrazCode/DrinksCarousel" width="50px" padding="5px" border="1px solid #E3008C" border-radius="10px" backround-color="white" color = "#E3008C">Repo</a>
@@ -26,7 +27,8 @@
 </div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
-<h3 align="center">Languages and Tools</h3>
+<h1 font-family="Georgia">Languages and Tools</h1><hr/>
+
 <p align="center"> 
     <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -78,7 +80,8 @@
     </a> -->
 </p>
 
-<h3 align="center">Connect with me</h3>
+<h1 font-family="Georgia">Connect with me</h1><hr/>
+
 <p align="center">
 <!-- <a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a> -->
 <a href="https://twitter.com/elektrazcode" target="blank"><img align="center" src="icons/twitter.png" alt="Twitter Account" width="40" /></a>
@@ -91,7 +94,7 @@
 <a href="https://www.leetcode.com/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elektrazcode" height="30" width="40" /></a> -->
 </p>
 
-<h3>Stats</h3>
+<h1 font-family="Georgia">Stats</h1><hr/>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="60%" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="60%" /></p>
