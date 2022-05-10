@@ -4,12 +4,6 @@
 <h2 align="center">"@ElektrazCode"</h2>
 <h3 align="center">A passionate Full-Stack Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elektrazcode&label=Profile%20views&color=0e75b6&style=flat" alt="elektrazcode" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elektrazcode" alt="elektrazcode" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/elektrazcode" target="blank"><img src="https://img.shields.io/twitter/follow/elektrazcode?logo=twitter&style=for-the-badge" alt="elektrazcode" /></a> </p>
-
 - 💻 I’m a Full-Stack Software Engineer at **100Devs**
 
 - 💗 I love coding in **html, css, javascript, SQL & java**
@@ -24,11 +18,11 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -49,3 +43,9 @@
 
 
 ![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elektrazcode&label=Profile%20views&color=0e75b6&style=flat" alt="elektrazcode" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elektrazcode" alt="elektrazcode" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/elektrazcode" target="blank"><img src="https://img.shields.io/twitter/follow/elektrazcode?logo=twitter&style=for-the-badge" alt="elektrazcode" /></a> </p>
