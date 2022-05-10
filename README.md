@@ -19,10 +19,9 @@
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
 <h3>Projects</h3>
-
-![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)
-
-
+<div align="center">
+    ![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)
+</div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
 <h3 align="center">Languages and Tools</h3>
@@ -92,8 +91,8 @@
 
 <h3>Stats</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="75%" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="75%" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=tokyonight" alt="elektrazcode" width="75%" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=tokyonight&locale=en" alt="elektrazcode" width="75%" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elektrazcode" alt="elektrazcode" /></a> </p>
 
