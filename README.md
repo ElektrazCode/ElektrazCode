@@ -1,8 +1,8 @@
 ![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/90852186/167046835-cc992e83-a094-47b4-8850-ad1183c0dbbb.png)
 
 <h1 align="center">Hi 👋🏼, I'm Mary Rose</h1>
-<h2 align="center">"@ElektrazCode"</h2>
-<h3 align="center">A passionate Full-Stack Software Engineer</h3>
+<!-- <h2 align="center">"@ElektrazCode"</h2>
+<h3 align="center">A passionate Full-Stack Software Engineer</h3> -->
 
 - 💻 I’m a Full-Stack Software Engineer at **100Devs**
 
@@ -18,15 +18,13 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" /></p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a> -->
 <a href="https://twitter.com/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elektrazcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maryroseboulos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryroseboulos" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elektrazcode" height="30" width="40" /></a>
