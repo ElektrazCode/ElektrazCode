@@ -19,8 +19,9 @@
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
 <h3>Projects</h3>
-<div align="center">
-   <img src=" ![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)"/>
+<div align="center" border="1px solid silver" padding="10px">
+   <img src="Demos/Carousel.gif"/>
+   <button href="https://github.com/ElektrazCode/DrinksCarousel">Repo</button><button href="https://drinkscarousel.netlify.app">Site</button>
 </div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
