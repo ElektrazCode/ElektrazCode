@@ -1,6 +1,6 @@
 ![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/90852186/167046835-cc992e83-a094-47b4-8850-ad1183c0dbbb.png)
 
-<h1 align="center" font-family="Georgia">Hi 👋🏼, I'm Mary Rose</h1>
+<h1 align="center" style="font-family: Georgia">Hi 👋🏼, I'm Mary Rose</h1>
 <!-- <h2 align="center">"@ElektrazCode"</h2>
 <h3 align="center">A passionate Full-Stack Software Engineer</h3> -->
 
@@ -18,25 +18,25 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-<h1 font-family="Georgia">Connect with me</h1><br/>
+<h1 style="font-family: Georgia">Connect with me</h1><br/>
 
 <p align="center">
 <!-- <a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a> -->
-<a href="https://twitter.com/elektrazcode" target="blank" margin="5px"><img align="center" src="icons/twitter.png" alt="Twitter Account" width="40" /></a>
-<a href="https://linkedin.com/in/maryroseboulos" target="blank" margin="5px"><img align="center" src="icons/linked.png" alt="LinkedIn Account" width="40" /></a>
-<a href="https://instagram.com/code_2_inspire" target="blank" margin="5px"><img align="center" src="icons/instagram.png" alt="Instagram Account" width="40" /></a>
-<a href="https://github.com/elektrazcode" target="blank" margin="5px"><img align="center" src="icons/github.png" alt="Github Account" width="40" /></a>
-<a href="mailto:elektrazcode@gmail.com" target="blank" margin="5px"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
+<a href="https://twitter.com/elektrazcode" target="blank"><img align="center" src="icons/twitter.png" alt="Twitter Account" width="40" /></a>
+<a href="https://linkedin.com/in/maryroseboulos" target="blank"><img align="center" src="icons/linked.png" alt="LinkedIn Account" width="40" /></a>
+<a href="https://instagram.com/code_2_inspire" target="blank"><img align="center" src="icons/instagram.png" alt="Instagram Account" width="40" /></a>
+<a href="https://github.com/elektrazcode" target="blank"><img align="center" src="icons/github.png" alt="Github Account" width="40" /></a>
+<a href="mailto:elektrazcode@gmail.com" target="blank"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
 
-<h1 font-family="Georgia">Projects</h1><br/>
-<div align="center" border="1px solid silver" padding="10px">
+<h1 style="font-family: Georgia">Projects</h1><br/>
+<div align="center" style="border: 1px solid silver" padding="10px">
    <img src="Demos/Carousel.gif"/><br/>
    <a href="https://github.com/ElektrazCode/DrinksCarousel" width="50px" padding="5px" border="1px solid #E3008C" border-radius="10px" backround-color="white" color = "#E3008C">Repo</a>
    <a href="https://drinkscarousel.netlify.app" width="50px" padding="5px" border="1px solid #E3008C" border-radius="10px" backround-color="white" color = "#E3008C">Site</a>
 </div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
-<h1 font-family="Georgia">Languages and Tools</h1><br/>
+<h1 style="font-family: Georgia">Languages and Tools</h1><br/>
 
 <p align="center"> 
     <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -95,7 +95,7 @@
 <a href="https://www.leetcode.com/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elektrazcode" height="30" width="40" /></a> -->
 </p>
 
-<h1 font-family="Georgia">Stats</h1><br/>
+<h1 style="font-family: Georgia">Stats</h1><br/>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="76%" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="76%" /></p>
