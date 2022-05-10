@@ -31,19 +31,19 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>  -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="icons/htmlPurple.png" alt="html5" width="40"/>
+        <img src="icons/html5HotPink.png" alt="html5" width="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="icons/cssPurple.png" alt="css3" width="40"/>
+        <img src="icons/css3HotPink.png" alt="css3" width="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="icons/JSPurple.png" alt="javascript" width="40"/> 
+        <img src="icons/JSHotPink.png" alt="javascript" width="40"/> 
+    </a>
+        <a href="https://www.SQL.com" target="_blank" rel="noreferrer"> 
+        <img src="icons/SQL.png" alt="java" width="40"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/JavaPurple.png" alt="java" width="40"/>
-    </a>
-    <a href="https://www.SQL.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/SQLPurple.png" alt="java" width="40"/>
+        <img src="icons/Java.png" alt="java" width="40"/>
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -51,24 +51,24 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a> -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
+    </a> -->
     <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a> -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
+    </a> -->
     <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a> -->
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
+    </a> -->
     <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
@@ -80,9 +80,11 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <!-- <a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a> -->
-<a href="https://twitter.com/elektrazcode" target="blank"><img align="center" src="icons/twitterLogo.png" alt="elektrazcode" width="40" /></a>
-<a href="https://linkedin.com/in/maryroseboulos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryroseboulos" width="40" /></a>
-<a href="https://instagram.com/code_2_inspire" target="blank"><img align="center" src="icons/instagramLogo.png" alt="code_2_inspire" width="40" /></a>
+<a href="https://twitter.com/elektrazcode" target="blank"><img align="center" src="icons/twitter.png" alt="Twitter Account" width="40" /></a>
+<a href="https://linkedin.com/in/maryroseboulos" target="blank"><img align="center" src="icons/linked.png" alt="LinkedIn Account" width="40" /></a>
+<a href="https://instagram.com/code_2_inspire" target="blank"><img align="center" src="icons/instagram.png" alt="Instagram Account" width="40" /></a>
+<a href="https://github.com/elektrazcode" target="blank"><img align="center" src="icons/github.png" alt="Github Account" width="40" /></a>
+<a href="mailto:elektrazcode@gmail.com" target="blank"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elektrazcode" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elektrazcode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elektrazcode" height="30" width="40" /></a> -->
