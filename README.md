@@ -43,7 +43,7 @@
         <a href="https://www.SQL.com" target="_blank" rel="noreferrer"> 
         <img src="icons/SQL.png" alt="java" height="60"/>
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer" padding="5px"> 
         <img src="icons/javaIcon2.png" alt="java" height="60"/>
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
