@@ -20,8 +20,9 @@
 
 <h3>Projects</h3>
 <div align="center" border="1px solid silver" padding="10px">
-   <img src="Demos/Carousel.gif"/>
-   <button href="https://github.com/ElektrazCode/DrinksCarousel">Repo</button><button href="https://drinkscarousel.netlify.app">Site</button>
+   <img src="Demos/Carousel.gif"/><br/>
+   <a href="https://github.com/ElektrazCode/DrinksCarousel" width="50px" padding="5px" border="1px solid #E3008C" round-border="10px" backround-color="white" color = "#E3008C">Repo</a>
+   <a href="https://drinkscarousel.netlify.app" width="50px" padding="5px" border="1px solid #E3008C" round-border="10px" backround-color="white" color = "#E3008C">Site</a>
 </div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
