@@ -18,8 +18,7 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-<h1 font-family="Georgia">Projects</h1>
-
+<h1 font-family="Georgia">Projects</h1><br/>
 <div align="center" border="1px solid silver" padding="10px">
    <img src="Demos/Carousel.gif"/><br/>
    <a href="https://github.com/ElektrazCode/DrinksCarousel" width="50px" padding="5px" border="1px solid #E3008C" border-radius="10px" backround-color="white" color = "#E3008C">Repo</a>
@@ -27,7 +26,7 @@
 </div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
-<h1 font-family="Georgia">Languages and Tools</h1>
+<h1 font-family="Georgia">Languages and Tools</h1><br/>
 
 <p align="center"> 
     <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -80,7 +79,7 @@
     </a> -->
 </p>
 
-<h1 font-family="Georgia">Connect with me</h1>
+<h1 font-family="Georgia">Connect with me</h1><br/>
 
 <p align="center">
 <!-- <a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a> -->
@@ -94,7 +93,7 @@
 <a href="https://www.leetcode.com/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elektrazcode" height="30" width="40" /></a> -->
 </p>
 
-<h1 font-family="Georgia">Stats</h1>
+<h1 font-family="Georgia">Stats</h1><br/>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="60%" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="60%" /></p>
