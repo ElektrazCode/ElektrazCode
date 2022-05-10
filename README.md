@@ -20,7 +20,7 @@
 
 <h3>Projects</h3>
 <div align="center">
-    ![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)
+   <img src=" ![CarouselGif](https://user-images.githubusercontent.com/90852186/167172098-00561e16-e358-4f54-bc37-7997dddb1eb2.gif)"/>
 </div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
