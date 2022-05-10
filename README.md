@@ -44,7 +44,7 @@
         <img src="icons/SQL.png" alt="java" height="60"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/Java.png" alt="java" height="60"/>
+        <img src="icons/javaIcon.png" alt="java" height="60"/>
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
