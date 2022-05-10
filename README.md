@@ -22,11 +22,11 @@
 
 <p align="center">
 <!-- <a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a> -->
-<a href="https://twitter.com/elektrazcode" target="blank"><img align="center" src="icons/twitter.png" alt="Twitter Account" width="40" /></a>
-<a href="https://linkedin.com/in/maryroseboulos" target="blank"><img align="center" src="icons/linked.png" alt="LinkedIn Account" width="40" /></a>
-<a href="https://instagram.com/code_2_inspire" target="blank"><img align="center" src="icons/instagram.png" alt="Instagram Account" width="40" /></a>
-<a href="https://github.com/elektrazcode" target="blank"><img align="center" src="icons/github.png" alt="Github Account" width="40" /></a>
-<a href="mailto:elektrazcode@gmail.com" target="blank"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
+<a href="https://twitter.com/elektrazcode" target="blank" margin="5px"><img align="center" src="icons/twitter.png" alt="Twitter Account" width="40" /></a>
+<a href="https://linkedin.com/in/maryroseboulos" target="blank" margin="5px"><img align="center" src="icons/linked.png" alt="LinkedIn Account" width="40" /></a>
+<a href="https://instagram.com/code_2_inspire" target="blank" margin="5px"><img align="center" src="icons/instagram.png" alt="Instagram Account" width="40" /></a>
+<a href="https://github.com/elektrazcode" target="blank" margin="5px"><img align="center" src="icons/github.png" alt="Github Account" width="40" /></a>
+<a href="mailto:elektrazcode@gmail.com" target="blank" margin="5px"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
 
 <h1 font-family="Georgia">Projects</h1><br/>
 <div align="center" border="1px solid silver" padding="10px">
