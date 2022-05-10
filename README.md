@@ -93,8 +93,8 @@
 
 <h3>Stats</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="75%" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="75%" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="60%" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="60%" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elektrazcode" alt="elektrazcode" /></a> </p>
 
