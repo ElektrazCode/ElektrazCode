@@ -29,10 +29,10 @@
 <a href="mailto:elektrazcode@gmail.com" target="blank"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
 
 <h1 style="font-family: Georgia">Projects</h1><br/>
-<kbd><div align="center" padding="10px">
+<kbd><div align="center">
    <img src="Demos/Carousel.gif"/><br/>
-   <a href="https://github.com/ElektrazCode/DrinksCarousel" width="50px" padding="5px" border-radius="10px" backround-color="white" color = "#E3008C">Repo</a>
-   <a href="https://drinkscarousel.netlify.app" width="50px" padding="5px" border-radius="10px" backround-color="white" color = "#E3008C">Site</a>
+   <kbd><a href="https://github.com/ElektrazCode/DrinksCarousel" width="50px" padding="5px" border-radius="10px" backround-color="white" color = "#E3008C">Repo</a></kbd>
+   <kbd><a href="https://drinkscarousel.netlify.app" width="50px" padding="5px" border-radius="10px" backround-color="white" color = "#E3008C">Site</a></kbd>
 </div></kbd>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
