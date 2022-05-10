@@ -32,19 +32,19 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>  -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="icons/html5HotPink.png" alt="html5" height="60"/>
+        <img src="icons/html5Icon.png" alt="html5" height="60"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="icons/css3HotPink.png" alt="css3" height="60"/>
+        <img src="icons/css3Icon.png" alt="css3" height="60"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="icons/JSHotPink.png" alt="javascript" height="60"/> 
+        <img src="icons/JSIcon.png" alt="javascript" height="60"/> 
     </a>
         <a href="https://www.SQL.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/SQL.png" alt="java" height="60"/>
+        <img src="icons/sqlIcon.png" alt="java" height="60"/>
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer" margin="0 5px"> 
-        <img src="icons/javaIcon2.png" alt="java" height="60" />
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="icons/javaIcon.png" alt="java" height="60" />
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
