@@ -35,10 +35,10 @@
         <img src="icons/html5Icon.png" alt="html5" height="60"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="icons/css3Icon.png" alt="css3" height="60"/>
+        <img src="icons/cssIcon.png" alt="css3" height="60"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="icons/JSIcon.png" alt="javascript" height="60"/> 
+        <img src="icons/jsIcon.png" alt="javascript" height="60"/> 
     </a>
         <a href="https://www.SQL.com" target="_blank" rel="noreferrer"> 
         <img src="icons/sqlIcon.png" alt="java" height="60"/>
