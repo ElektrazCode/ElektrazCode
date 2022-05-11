@@ -29,32 +29,44 @@
 <a href="mailto:elektrazcode@gmail.com" target="blank"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
 
 <h1>Projects</h1><br/>
-<section>
-    <kbd><div align="center"><br/>
-    <img src="Demos/Carousel.gif" /><br/><br/>
-    <a href="https://github.com/ElektrazCode/DrinksCarousel" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
-    <a href="https://drinkscarousel.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-    <p>Description</p><br/>
-    </div></kbd>
-    <kbd><div align="center"><br/>
-    <img src="Demos/SmurfsGame.png"/><br/><br/>
-    <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
-    <a href="https://smurfsgame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-    <p>Description</p><br/>
-    </div></kbd>
-    <kbd><div align="center"><br/>
-    <img src="Demos/MetVirtualTour.png"/><br/><br/>
-    <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
-    <a href="https://metvirtualtour.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-    <p>Description</p><br/>
-    </div></kbd>
-    <kbd><div align="center"><br/>
-    <img src="Demos/HarryPotterGame.png"/><br/><br/>
-    <a href="https://github.com/ElektrazCode/HarryPotterGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
-    <a href="https://harrypottergame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-    <p>Description</p><br/>
-    </div></kbd>
-</section>
+<table>
+    <tr>
+        <td>
+            <kbd><div align="center"><br/>
+            <img src="Demos/Carousel.gif" /><br/><br/>
+            <a href="https://github.com/ElektrazCode/DrinksCarousel" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+            <a href="https://drinkscarousel.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
+            <p>Description</p><br/>
+            </div></kbd>
+        </td>
+        <td>
+            <kbd><div align="center"><br/>
+            <img src="Demos/SmurfsGame.png"/><br/><br/>
+            <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+            <a href="https://smurfsgame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
+            <p>Description</p><br/>
+            </div></kbd>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <kbd><div align="center"><br/>
+            <img src="Demos/MetVirtualTour.png"/><br/><br/>
+            <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+            <a href="https://metvirtualtour.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
+            <p>Description</p><br/>
+            </div></kbd>
+        </td>
+        <td>
+            <kbd><div align="center"><br/>
+            <img src="Demos/HarryPotterGame.png"/><br/><br/>
+            <a href="https://github.com/ElektrazCode/HarryPotterGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+            <a href="https://harrypottergame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
+            <p>Description</p><br/>
+            </div></kbd>
+        </td>
+    </tr>
+</table>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
 <h1>Languages and Tools</h1><br/>
