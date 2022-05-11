@@ -35,20 +35,20 @@
    <a href="https://drinkscarousel.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
    <p>Description</p>
 </div></kbd>
-<kbd><div align="center">
-   <img src="Demos/SmurfsGame.png" width="50%"/><br/>
+<kbd><div align="center" width="50%">
+   <img src="Demos/SmurfsGame.png" /><br/>
    <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
    <a href="https://smurfsgame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
    <p>Description</p>
 </div></kbd>
-<kbd><div align="center">
-   <img src="Demos/MetVirtualTour.png" width="50%"/><br/>
+<kbd><div align="center" width="50%">
+   <img src="Demos/MetVirtualTour.png"/><br/>
    <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
    <a href="https://metvirtualtour.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
    <p>Description</p>
 </div></kbd>
-<kbd><div align="center">
-   <img src="Demos/HarryPotterGame.png" width="50%"/><br/>
+<kbd><div align="center" width="50%">
+   <img src="Demos/HarryPotterGame.png"/><br/>
    <a href="https://github.com/ElektrazCode/HarryPotterGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
    <a href="https://harrypottergame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
    <p>Description</p>
