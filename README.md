@@ -31,8 +31,8 @@
 <h1 style="font-family: Georgia">Projects</h1><br/>
 <kbd><div align="center">
    <img src="Demos/Carousel.gif"/><br/>
-   <kbd><a href="https://github.com/ElektrazCode/DrinksCarousel"><img src="icons/RepoBtn.png" width="50"/></a></kbd>
-   <kbd><a href="https://drinkscarousel.netlify.app"><img src="icons/SiteBtn.png" width="50"/></a></kbd>
+   <a href="https://github.com/ElektrazCode/DrinksCarousel"><img src="icons/RepoBtn.png" width="50"/></a>
+   <a href="https://drinkscarousel.netlify.app"><img src="icons/SiteBtn.png" width="50"/></a>
 </div></kbd>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
