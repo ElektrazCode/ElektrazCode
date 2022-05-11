@@ -31,8 +31,27 @@
 <h1 style="font-family: Georgia">Projects</h1><br/>
 <kbd><div align="center">
    <img src="Demos/Carousel.gif" width="200%"/><br/>
-   <a href="https://github.com/ElektrazCode/DrinksCarousel"><img src="icons/RepoBtn.png" width="75"/></a>
-   <a href="https://drinkscarousel.netlify.app"><img src="icons/SiteBtn.png" width="75"/></a>
+   <a href="https://github.com/ElektrazCode/DrinksCarousel" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+   <a href="https://drinkscarousel.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
+   <p>Description</p>
+</div></kbd>
+<kbd><div align="center">
+   <img src="Demos/SmurfsGame.png" width="200%"/><br/>
+   <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+   <a href="https://smurfsgame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
+   <p>Description</p>
+</div></kbd>
+<kbd><div align="center">
+   <img src="Demos/SmurfsGame.png" width="200%"/><br/>
+   <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+   <a href="https://smurfsgame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
+   <p>Description</p>
+</div></kbd>
+<kbd><div align="center">
+   <img src="Demos/MetVirtualTour.png" width="200%"/><br/>
+   <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
+   <a href="https://metvirtualtour.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a>
+   <p>Description</p>
 </div></kbd>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
