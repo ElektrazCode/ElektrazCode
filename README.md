@@ -30,7 +30,7 @@
 
 <h1 style="font-family: Georgia">Projects</h1><br/>
 <kbd><div align="center">
-   <img src="Demos/Carousel.gif" width="300"/><br/>
+   <img src="Demos/Carousel.gif" width="200%"/><br/>
    <a href="https://github.com/ElektrazCode/DrinksCarousel"><img src="icons/RepoBtn.png" width="75"/></a>
    <a href="https://drinkscarousel.netlify.app"><img src="icons/SiteBtn.png" width="75"/></a>
 </div></kbd>
