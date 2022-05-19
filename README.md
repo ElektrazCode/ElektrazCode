@@ -36,7 +36,7 @@
                 <img src="Demos/Carousel.gif" /><br/><br/>
                 <a href="https://github.com/ElektrazCode/DrinksCarousel" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://drinkscarousel.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-                <p>Description</p><br/>
+                <p><b>Description:</b> Web-based app with prospective implementation as mobile app. <b>Main Objective:</b> Retrieves List of Drinks from API. It asks the user to enter a kind of liquor, retrieves cocktails from an api and displays a carousel of drinks for the user to browse through. Tools: this app is designed with html, css and javaScript with the integration of the Api: https://thecocktaildb.com/api and the library providing the Swiper Effect: Swiper.js</p><br/>
             </div>
         </td>
         <td>
@@ -44,7 +44,7 @@
                 <img src="Demos/SmurfsGame.png"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://smurfsgame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-                <p>Description</p><br/>
+                <p><b>Description:</b> Interactive Game. <b>Main Objective:</b> Find hidden Smurfs. If found Azrael, Gargamel's cat, 3 time, the smurfs will fall in Gargamel's hands. <b>Tools:</b> this app is designed with HTML, CSS, JavaScript.</p><br/>
             </div>
         </td>
     </tr>
@@ -54,7 +54,7 @@
                 <img src="Demos/MetVirtualTour.png"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://metvirtualtour.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-                <p>Main Objective: Retrieves List of Drinks from API. Description: It asks the user to enter a kind of liquor, retrieves cocktails from an api and displays a carousel of drinks for the user to browse through. Tools: this app is designed with html, css and javaScript. Api: https://thecocktaildb.com/api Swiper Effect: Swiper.js</p><br/>
+                <p><b>Description:</b> It's a fully responsive website. <b>Main Objective:</b> It showcases all of the art pieces currently displayed a the MET museum. Tools: It's designed with html, css and javascipt, running an api to retrieve info about artwork in the MET musuem.</p><br/>
             </div>
         </td>
         <td>
@@ -62,7 +62,7 @@
                 <img src="Demos/HarryPotterGame.png"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/HarryPotterGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://harrypottergame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-                <p>Description</p><br/>
+                <p><b>Description:</b> It's a fully responsive website. <b>Main Objective:</b> It displays some info about the Harry Potter movie retrieved and collected from different APIs: its books, characters, spells and potions. I am currently working on adding a game using the retrieved information. Tools: It is designed with Html, css & javascript. Retrieving info from the API: .</p><br/>
             </div>
         </td>
     </tr>
