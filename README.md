@@ -54,7 +54,7 @@
                 <img src="Demos/MetVirtualTour.png"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://metvirtualtour.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
-                <p>Description</p><br/>
+                <p>Main Objective: Retrieves List of Drinks from API. Description: It asks the user to enter a kind of liquor, retrieves cocktails from an api and displays a carousel of drinks for the user to browse through. Tools: this app is designed with html, css and javaScript. Api: https://thecocktaildb.com/api Swiper Effect: Swiper.js</p><br/>
             </div>
         </td>
         <td>
