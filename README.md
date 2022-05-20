@@ -33,7 +33,7 @@
     <tr>
         <td width="50%" vertical-align="top">
             <div align="center"><br/>
-                <img src="Demos/Carousel.gif" /><br/><br/>
+                <img src="Demos/Carousel.gif" width="100%"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/DrinksCarousel" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://drinkscarousel.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
                 <p><b>Description:</b> Web-based app with prospective implementation as mobile app. <b>Main Objective:</b> Retrieves List of Drinks from API. It asks the user to enter a kind of liquor, retrieves cocktails from an api and displays a carousel of drinks for the user to browse through. Tools: this app is designed with html, css and javaScript with the integration of the Api: https://thecocktaildb.com/api and the library providing the Swiper Effect: Swiper.js</p><br/>
