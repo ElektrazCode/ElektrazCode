@@ -41,7 +41,7 @@
         </td>
         <td width="50%">
             <div align="center"><br/>
-                <img src="Demos/SmurfsGame.png"/><br/><br/>
+                <img src="Demos/Smurfs.gif"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://smurfsgame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
                 <p><b>Description:</b> Interactive Game. <b>Main Objective:</b> Find hidden Smurfs. If found Azrael, Gargamel's cat, 3 time, the smurfs will fall in Gargamel's hands. <b>Tools:</b> this app is designed with HTML, CSS, JavaScript.</p><br/>
