@@ -93,14 +93,14 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/git3.png" alt="Git" height="60" />
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="icons/mongodb2.png" alt="MongoDB" height="60" />
+    </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
         <img src="icons/node.png" alt="Node.js" height="60" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="icons/react3.png" alt="React" height="60" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/mongodb2.png" alt="MongoDB" height="60" />
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
