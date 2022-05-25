@@ -31,7 +31,7 @@
 <h1>Projects</h1><br/>
 <table>
     <tr>
-        <td width="50%" style="vertical-align: top">
+        <td width="50%" valign= "top">
             <div align="center"><br/>
                 <img src="Demos/Carousel.gif" width="100%"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/DrinksCarousel" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
@@ -39,7 +39,7 @@
                 <p><b>Description:</b> Web-based app with prospective implementation as mobile app. <b>Main Objective:</b> Retrieves List of Drinks from API. It asks the user to enter a kind of liquor, retrieves cocktails from an api and displays a carousel of drinks for the user to browse through. Tools: this app is designed with html, css and javaScript with the integration of the Api: https://thecocktaildb.com/api and the library providing the Swiper Effect: Swiper.js</p><br/>
             </div>
         </td>
-        <td width="50%" style="vertical-align: top">
+        <td width="50%" valign= "top">
             <div align="center"><br/>
                 <img src="Demos/Smurfs.gif" width="100%"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/SmurfsGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
@@ -49,7 +49,7 @@
         </td>
     </tr>
     <tr>
-        <td width="50%" style="vertical-align: top">
+        <td width="50%" valign= "top">
             <div align="center"><br/>
                 <img src="Demos/MetVirtualTour.png" width="100%"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
@@ -57,7 +57,7 @@
                 <p><b>Description:</b> It's a fully responsive website. <b>Main Objective:</b> It showcases all of the art pieces currently displayed a the MET museum. Tools: It's designed with html, css and javascipt, running an api to retrieve info about artwork in the MET musuem.</p><br/>
             </div>
         </td>
-        <td width="50%" style="vertical-align: top">
+        <td width="50%" valign= "top">
             <div align="center"><br/>
                 <img src="Demos/HarryPotterGame.png" width="100%"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/HarryPotterGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
