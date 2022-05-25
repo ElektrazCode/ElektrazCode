@@ -78,7 +78,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="icons/html5Icon.png" alt="html5" height="60"/>
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
         <img src="icons/cssIcon.png" alt="css3" height="60"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -89,6 +89,18 @@
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="icons/javaIcon.png" alt="java" height="60" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="icons/git3.png" alt="git" height="60" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+        <img src="icons/nodejs.png" alt="git" height="60" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="icons/react3.png" alt="react" height="60" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="icons/mongodb2.png" alt="mongodb" height="60" />
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
