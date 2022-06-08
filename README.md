@@ -1,7 +1,8 @@
 ![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/90852186/167046835-cc992e83-a094-47b4-8850-ad1183c0dbbb.png)
-
+![CodeWars.svg](https://www.codewars.com/users/ElektrazCode/badges/large)
 <h1 align="center">Hi 👋🏼, I'm Mary Rose</h1>
-# ![CodeWars.svg](https://www.codewars.com/users/ElektrazCode/badges/large)
+<h2 align="center">@ElektrazCode</h2>
+
 <!--<h3 align="center">A passionate Full-Stack Software Engineer</h3> -->
 
 - 💻 I’m a passionate Full-Stack Software Engineer at **100Devs**
