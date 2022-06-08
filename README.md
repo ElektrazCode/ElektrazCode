@@ -19,7 +19,7 @@
 
 - ⚡ I currently daily code on CodeWars. &emsp; &emsp; &emsp; &emsp; &emsp; <img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" align="right">
 
-<h1><img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> Projects</h1><br/>
+<h1> Projects</h1><br/>
 
 <table>
     <tr>
@@ -61,7 +61,7 @@
 </table>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elektrazcode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elektrazcode" /></p> -->
 
-<h1><img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> Languages and Tools</h1><br/>
+<h1> Languages and Tools</h1><br/>
 
 <p align="center"> 
     <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -132,7 +132,7 @@
 <a href="https://www.leetcode.com/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elektrazcode" height="30" width="40" /></a> -->
 </p>
 
-<h1><img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> Stats</h1><br/>
+<h1> Stats</h1><br/>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="76%" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="76%" /></p>
@@ -143,7 +143,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elektrazcode&label=Profile%20views&color=0e75b6&style=flat" alt="elektrazcode" /> </p>
 
-<h1><img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> Connect with me</h1><br/>
+<h1> Connect with me</h1><br/>
 
 <p align="center">
 <!-- <a href="https://codepen.io/elektrazcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elektrazcode" height="30" width="40" /></a> -->
