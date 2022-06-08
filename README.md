@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋🏼, I'm Mary Rose</h1>
 <!-- <h2 align="center">@ElektrazCode</h2> -->
-<!--<h3 align="center">A passionate Full-Stack Software Engineer</h3> -->
 
 - 💻 I’m a passionate Full-Stack Software Engineer at **100Devs**
 
@@ -18,13 +17,9 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-- ⚡ <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge">
+- ⚡ <img vertical-align="bottom" src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge">
 
 <h1>Projects</h1><br/>
-<!-- 
-<h1 align="center"> 
-   
-</h1> -->
 
 <table>
     <tr>
