@@ -14,10 +14,10 @@
 - 🤝🏼 I’m currently collaborating on **ICAF's Website**
 
 - 🌱 I’m currently learning **Node, React & MangoDB**
-
-- ⚡ <pre>I currently daily code on codewars    ⇨    <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom"></pre>
      
 - 📫 You can reach me at **ElektrazCode@gmail.com**
+
+- <pre>⚡ I currently daily code on codewars    ⇨    <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom"></pre>
 
 <h1>Projects</h1><br/>
 
