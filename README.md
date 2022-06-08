@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Node, React & MangoDB**
 
-- ⚡ I currently daily code on codewars &nbps; &nbps; &nbps; ⇨ &nbps; &nbps; &nbps; <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom">
+- ⚡ <pre>I currently daily code on codewars    ⇨    <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom"></pre>
      
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
