@@ -4,7 +4,7 @@
 <!-- <h2 align="center">@ElektrazCode</h2> -->
 
 <p align="center"> 
-    <img src="https://www.codewars.com/users/ElektrazCode/badges/large" alt="CodeWars Badge"> 
+    <img src="https://www.codewars.com/users/ElektrazCode/badges/large" alt="CodeWars Badge" style="filter: invert(19%) sepia(62%) saturate(5545%) hue-rotate(309deg) brightness(84%) contrast(121%)"> 
 </p>
 
 <!--<h3 align="center">A passionate Full-Stack Software Engineer</h3> -->
