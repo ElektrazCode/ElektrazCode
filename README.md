@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋🏼, I'm Mary Rose</h1>
 <h2 align="center">@ElektrazCode</h2>
 
-<h2 align="center"> ![CodeWars.svg](https://www.codewars.com/users/ElektrazCode/badges/large) </h2>
+<p align="center"> ![CodeWars.svg](https://www.codewars.com/users/ElektrazCode/badges/large) </p>
 
 <!--<h3 align="center">A passionate Full-Stack Software Engineer</h3> -->
 
