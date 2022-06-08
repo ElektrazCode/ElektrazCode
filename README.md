@@ -17,7 +17,7 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-- ⚡ <img vertical-align="bottom" src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge">
+- ⚡ <img style=" display:inline-block; vertical-align:bottom" src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge">
 
 <h1>Projects</h1><br/>
 
