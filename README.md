@@ -17,7 +17,7 @@
      
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-- ⚡ I currently daily code on codewars. Check out my badge:</br></br>
+- ⚡ I currently daily code on CodeWars. Check out my badge: 
      <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="420px" valign="bottom">
 
 <h1>Projects</h1><br/>
