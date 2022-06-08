@@ -1,7 +1,7 @@
 ![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/90852186/167046835-cc992e83-a094-47b4-8850-ad1183c0dbbb.png)
 
 <h1 align="center">Hi 👋🏼, I'm Mary Rose</h1>
-<h2 align="center">@ElektrazCode</h2>
+<!-- <h2 align="center">@ElektrazCode</h2> -->
 
 <p align="center"> 
     <img src="https://www.codewars.com/users/ElektrazCode/badges/large" alt="CodeWars Badge"> 
