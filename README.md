@@ -18,12 +18,13 @@
 
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
+- ⚡ <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge">
 
 <h1>Projects</h1><br/>
-
+<!-- 
 <h1 align="center"> 
-    <img src="https://www.codewars.com/users/ElektrazCode/badges/large" alt="CodeWars Badge">
-</h1>
+   
+</h1> -->
 
 <table>
     <tr>
