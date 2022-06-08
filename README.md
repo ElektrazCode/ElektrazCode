@@ -18,7 +18,7 @@
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
 - ⚡ My Scores: </br>
-                <div margin-left="100px"><img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge"></br>
+                <div style="margin-left:100px"><img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge"></br>
 
 <h1>Projects</h1><br/>
 
