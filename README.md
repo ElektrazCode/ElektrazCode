@@ -135,13 +135,13 @@
 <h1> Stats</h1><br/>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elektrazcode&theme=dracula" alt="elektrazcode" width="76%" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="76%" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elektrazcode&show_icons=true&theme=dracula&locale=en" alt="elektrazcode" width="76%" /></p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elektrazcode" alt="elektrazcode" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elektrazcode" alt="elektrazcode" /></a> </p> -->
 
 <!-- <p align="center"> <a href="https://twitter.com/elektrazcode" target="blank"><img src="https://img.shields.io/twitter/follow/elektrazcode?logo=twitter&style=for-the-badge" alt="elektrazcode" /></a> </p> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elektrazcode&label=Profile%20views&color=0e75b6&style=flat" alt="elektrazcode" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=elektrazcode&label=Profile%20views&color=0e75b6&style=flat" alt="elektrazcode" /> </p> -->
 
 <h1> Connect with me</h1><br/>
 
