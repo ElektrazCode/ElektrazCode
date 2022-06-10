@@ -43,7 +43,7 @@
     <tr>
         <td width="50%" valign= "top">
             <div align="center"><br/>
-                <img src="Demos/MetVirtualTour.png" width="100%"/><br/><br/>
+                <img src="Demos/ArtMuseum.gif" width="100%"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/TheMetVirtualTour" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://metvirtualtour.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
                 <p><b>Description:</b> It's a fully responsive website. <b>Main Objective:</b> It showcases all of the art pieces currently displayed a the MET museum. Tools: It's designed with html, css and javascipt, running an api to retrieve info about artwork in the MET musuem.</p><br/>
@@ -51,7 +51,7 @@
         </td>
         <td width="50%" valign= "top">
             <div align="center"><br/>
-                <img src="Demos/HarryPotterGame.png" width="100%"/><br/><br/>
+                <img src="Demos/HarryPotter.gif" width="100%"/><br/><br/>
                 <a href="https://github.com/ElektrazCode/HarryPotterGame" target="_blank"><img src="icons/RepoBtn.png" width="75"/></a>
                 <a href="https://harrypottergame.netlify.app" target="_blank"><img src="icons/SiteBtn.png" width="75"/></a><br/><br/>
                 <p><b>Description:</b> It's a fully responsive website. <b>Main Objective:</b> It displays some info about the Harry Potter movie retrieved and collected from different APIs: its books, characters, spells and potions. I am currently working on adding a game using the retrieved information. Tools: It is designed with Html, css & javascript. Retrieving info from the API: .</p><br/>
