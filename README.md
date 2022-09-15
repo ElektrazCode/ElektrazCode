@@ -5,7 +5,7 @@
 
 - 💻 I’m a passionate Full-Stack Software Engineer at **100Devs**
 
-- 💗 I love coding in **html, css, javascript, SQL & java**
+- 💗 I love coding in **html, css, javascript, Node, MongoDB, SQL & java**
 
 - 👀 I’m interested in collaborating to open source projects 
 
@@ -13,11 +13,12 @@
 
 - 🤝🏼 I’m currently collaborating on **ICAF's Website**
 
-- 🌱 I’m currently learning **Node, React & MangoDB**
+- 🌱 I’m currently learning **React, Dockers/Kubernetes**
      
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-- ⚡ I currently code daily on CodeWars. &emsp; &emsp; &emsp; &emsp; &emsp; <img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" align="right">
+- ⚡ I currently code daily on <a href="https://www.codewars.com">CodeWars</a>. &emsp; &emsp; &emsp; &emsp; &emsp; <img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" align="right">
+    &emsp; &emsp; &emsp; &emsp; &emsp; and <a href="https://www.practice.geeksforgeeks.org">GeeksForGeeks</a>. &emsp; &emsp; &emsp; &emsp; &emsp; <img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> <img src="Scores/gfg.png" alt="GeeksForGeeks Stats" width="350px" valign="bottom" align="right">
 
 <h1> Projects</h1><br/>
 
