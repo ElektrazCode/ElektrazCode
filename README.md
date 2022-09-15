@@ -18,7 +18,7 @@
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
 - ⚡ I currently code daily on <a href="https://www.codewars.com">CodeWars</a>. &emsp; &emsp; &emsp; &emsp; &emsp; <img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" align="right">
-    &emsp; &emsp; &emsp; &emsp; &emsp; and <a href="https://www.practice.geeksforgeeks.org">GeeksForGeeks</a>. &emsp; &emsp; &emsp; &emsp; &emsp; <img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> <img src="Scores/gfg.png" alt="GeeksForGeeks Stats" width="350px" valign="bottom" align="right">
+    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; I also practice and learn on <a href="https://www.practice.geeksforgeeks.org">GeeksForGeeks</a>.
 
 <h1> Projects</h1><br/>
 
