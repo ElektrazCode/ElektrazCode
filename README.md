@@ -95,6 +95,15 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="icons/react3.png" alt="React" height="60" />
     </a>
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+        <img src="icons/vue.png" alt="Vue" height="60" />
+    </a>
+      <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="icons/vuetify.png" alt="Vuetify" height="60" />
+    </a>
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+        <img src="icons/graphql.png" alt="GraphQL" height="60" />
+    </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
     </a>
