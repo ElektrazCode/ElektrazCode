@@ -102,7 +102,7 @@
         <img src="icons/vuetify.png" alt="Vuetify" height="60" />
     </a>
       <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/graphql.png" alt="GraphQL" height="60" />
+        <img src="icons/graphql2.png" alt="GraphQL" height="60" />
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
