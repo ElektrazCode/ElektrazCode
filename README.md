@@ -5,7 +5,7 @@
 
 - 💻 I’m a passionate Full-Stack Software Engineer at **100Devs**
 
-- 💗 I love coding in **html, css, javascript, Node, MongoDB, SQL & java**
+- 💗 I love coding in **html, css, javascript, Node, MongoDB, SQL, Vue, Vuetify, GraphQL, Go, C++ & java**
 
 - 👀 I’m interested in collaborating to open source projects 
 
