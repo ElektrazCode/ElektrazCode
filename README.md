@@ -3,22 +3,25 @@
 <h1 align="center">Hi 👋🏼, I'm Mary Rose</h1>
 <!-- <h2 align="center">@ElektrazCode</h2> -->
 
-- 💻 I’m a passionate Full-Stack Software Engineer at **100Devs**
+- 💻 I’m a passionate Full-Stack Software Engineer.
 
-- 💗 I love coding in **html, css, javascript, Node, MongoDB, SQL, Vue, Vuetify, GraphQL, Go, C++ & java**
+- 💗 I love to code. My favorite stack is MEVN/MERN.
 
-- 👀 I’m interested in collaborating to open source projects 
+- 👀 I’m interested in learning new tech and tools.
 
 - 🔭 I’m currently working on **GenAI Language Learning Portal Project**
 
 <!-- - 🤝🏼 I’m currently collaborating on **ICAF's Website** -->
 
-- 🌱 I’m currently learning **Python, Dockers/Kubernetes**
+- 🌱 I’m currently learning about **AI & Containers**
      
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
-- ⚡ I currently code daily on <a href="https://www.codewars.com" target="_blank">CodeWars</a>, &emsp; &emsp; &emsp; &emsp; &emsp; <img src="icons/arrow2.png" alt="Arrow" width="30px" valign="bottom" align="center"> <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" align="right" target="_blank"> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; and on <a href="https://www.geeksforgeeks.org" target="_blank">GeeksForGeeks</a>.
+- ⚡ I currently code daily on:
+     - <a href="https://www.codewars.com" target="_blank">CodeWars</a>
+          - <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" align="right" target="_blank"> 
+     - <a href="https://www.geeksforgeeks.org" target="_blank">GeeksForGeeks</a>
+     - <a href="https://www.leetcode.com/">LeetCode</a>
 
 <h1> Projects</h1><br/>
 
