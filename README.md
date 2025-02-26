@@ -18,8 +18,8 @@
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
 - ⚡ I currently code daily on:
-     - <a href="https://www.codewars.com" target="_blank">CodeWars</a>
-            ⇨ <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" target="_blank"> 
+     - <a href="https://www.codewars.com" target="_blank">CodeWars</a>   
+          ⇨ <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" target="_blank"> 
      - <a href="https://www.geeksforgeeks.org" target="_blank">GeeksForGeeks</a>
      - <a href="https://www.leetcode.com/">LeetCode</a>
 
