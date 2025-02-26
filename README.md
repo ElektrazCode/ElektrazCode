@@ -9,11 +9,11 @@
 
 - 👀 I’m interested in collaborating to open source projects 
 
-- 🔭 I’m currently working on **Eye Clinic Website**
+- 🔭 I’m currently working on **GenAI Language Learning Portal Project**
 
-- 🤝🏼 I’m currently collaborating on **ICAF's Website**
+<!-- - 🤝🏼 I’m currently collaborating on **ICAF's Website** -->
 
-- 🌱 I’m currently learning **React, Dockers/Kubernetes**
+- 🌱 I’m currently learning **Python, Dockers/Kubernetes**
      
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
@@ -75,11 +75,11 @@
         <img src="icons/cssIcon.png" alt="CSS3" height="60"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="icons/jsIcon.png" alt="JavaScript" height="60"/> 
+        <img src="icons/jsIcon.png" alt="JavaScript" height="60"/>
     </a>
-        <a href="https://www.SQL.com" target="_blank" rel="noreferrer"> 
+     <a href="https://www.SQL.com" target="_blank" rel="noreferrer"> 
         <img src="icons/sqlIcon.png" alt="SQL" height="60"/>
-    </a>
+     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="icons/javaIcon.png" alt="Java" height="60" />
     </a>
@@ -95,13 +95,13 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="icons/react3.png" alt="React" height="60" />
     </a>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img src="icons/vue.png" alt="Vue" height="60" />
     </a>
-      <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer"> 
+     <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/vuetify.png" alt="Vuetify" height="60" />
     </a>
-      <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
         <img src="icons/graphql2.png" alt="GraphQL" height="60" />
     </a>
     <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
