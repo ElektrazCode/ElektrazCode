@@ -18,7 +18,7 @@
 - 📫 You can reach me at **ElektrazCode@gmail.com**
 
 - ⚡ I currently code daily on:
-     - <p style="line-height: 2;"><a href="https://www.codewars.com" target="_blank">CodeWars</a> ⇨ <img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" target="_blank"></p> 
+     - <p style="line-height: 2;"><a href="https://www.codewars.com" target="_blank">CodeWars</a>&nbsp;&nbsp;&nbsp;⇨&nbsp;&nbsp;&nbsp;<img src="https://www.codewars.com/users/ElektrazCode/badges/small" alt="CodeWars Badge" width="350px" valign="bottom" target="_blank"></p> 
      - <p style="line-height: 2;"><a href="https://www.geeksforgeeks.org" target="_blank">GeeksForGeeks</a></p>
      - <p style="line-height: 2;"><a href="https://www.leetcode.com/">LeetCode</a></p>
 
